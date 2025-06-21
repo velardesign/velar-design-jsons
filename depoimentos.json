@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Carla Mendes",
+    "image": "/products/orion.webp",
+    "mensagem": "Sou arquiteta há mais de 15 anos e sempre busco peças que valorizem os espaços sem perder a identidade brasileira. Os espelhos da Velar Design me surpreenderam — o design é limpo, modular e com presença. Usei em dois projetos residenciais e os clientes simplesmente amaram. É aquele tipo de detalhe que transforma o ambiente sem esforço.",
+    "nota": 5
+  },
+  {
+    "id": 2,
+    "name": "Ana Souza",
+    "image": "/products/orion.webp",
+    "mensagem": "Chegou muito rápido e a qualidade é impecável. A instalação foi fácil, sem sujeira nenhuma.",
+    "nota": 5
+  },
+  {
+    "id": 3,
+    "name": "João Lima",
+    "image": "/products/orion.webp",
+    "mensagem": "Achei incrível poder montar meu espelho como um quebra-cabeça. Produto diferenciado e lindo.",
+    "nota": 5
+  }
+]
