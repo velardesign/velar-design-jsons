@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Espelho Orion",
+    "slug": "orion",
+    "image": "/products/orion.webp",
+    "description": "Espelho com design geométrico e acabamento premium.",
+    "price": 399.9,
+    "url": "https://velardesign.lojavirtualnuvem.com.br/produtos/espelho-orion-design-modular-com-elegancia/"
+  },
+  {
+    "id": 2,
+    "name": "Espelho Lumen",
+    "slug": "lumen",
+    "image": "/products/lumen.webp",
+    "description": "Espelho com design geométrico e acabamento premium.",
+    "price": 399.9,
+    "url": "https://velardesign.lojavirtualnuvem.com.br/produtos/espelho-lumen-clareza-e-sofisticacao-para-espacos-de-convivio/"
+  },
+  {
+    "id": 3,
+    "name": "Espelho Aether",
+    "slug": "aether",
+    "image": "/products/aether.webp",
+    "description": "Espelho com design geométrico e acabamento premium.",
+    "price": 399.9,
+    "url": "#"
+  },
+  {
+    "id": 4,
+    "name": "Espelho Halo",
+    "slug": "halo",
+    "image": "/products/halo.webp",
+    "description": "Espelho com design geométrico e acabamento premium.",
+    "price": 399.9,
+    "url": "#"
+  }
+]
