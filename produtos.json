@@ -1,38 +1,142 @@
 [
   {
     "id": 1,
-    "name": "Espelho Orion teste",
+    "nome": "Espelho Orion",
     "slug": "orion",
-    "image": "/products/orion.webp",
-    "description": "Espelho com design geométrico e acabamento premium.",
-    "price": 399.9,
-    "url": "https://velardesign.lojavirtualnuvem.com.br/produtos/espelho-orion-design-modular-com-elegancia/"
+    "imagem": "/products/orion.webp",
+    "descricao": "Espelho com design geométrico e acabamento premium.",
+    "material": "Espelho de 4mm",
+    "dimensoes": "1200x2400",
+    "peso": "30 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 5,
+    "url": "https://velardesign.lojavirtualnuvem.com.br/produtos/espelho-orion-design-modular-com-elegancia/",
+    "imagens": [
+      {
+        "url": "/icons/github.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/canvas.jpg",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/proton.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/zoho.webp",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      }
+    ]
   },
   {
     "id": 2,
-    "name": "Espelho Lumen",
+    "nome": "Espelho Lumen",
     "slug": "lumen",
-    "image": "/products/lumen.webp",
-    "description": "Espelho com design geométrico e acabamento premium.",
-    "price": 399.9,
-    "url": "https://velardesign.lojavirtualnuvem.com.br/produtos/espelho-lumen-clareza-e-sofisticacao-para-espacos-de-convivio/"
+    "imagem": "/products/lumen.webp",
+    "descricao": "Espelho com design geométrico e acabamento premium.",
+    "material": "Espelho de 4mm",
+    "dimensoes": "1200x2400",
+    "peso": "30 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 5,
+    "url": "https://velardesign.lojavirtualnuvem.com.br/produtos/espelho-lumen-clareza-e-sofisticacao-para-espacos-de-convivio/",
+    "imagens": [
+      {
+        "url": "/icons/github.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/canvas.jpg",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/proton.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/zoho.webp",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      }
+    ]
   },
   {
     "id": 3,
-    "name": "Espelho Aether",
+    "nome": "Espelho Aether",
     "slug": "aether",
-    "image": "/products/aether.webp",
-    "description": "Espelho com design geométrico e acabamento premium.",
-    "price": 399.9,
-    "url": "#"
+    "imagem": "/products/aether.webp",
+    "descricao": "Espelho com design geométrico e acabamento premium.",
+    "material": "Espelho de 4mm",
+    "dimensoes": "1200x2400",
+    "peso": "30 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 5,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/icons/github.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/canvas.jpg",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/proton.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/zoho.webp",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      }
+    ]
   },
   {
     "id": 4,
-    "name": "Espelho Halo",
+    "nome": "Espelho Halo",
     "slug": "halo",
-    "image": "/products/halo.webp",
-    "description": "Espelho com design geométrico e acabamento premium.",
-    "price": 399.9,
-    "url": "#"
+    "imagem": "/products/halo.webp",
+    "descricao": "Espelho com design geométrico e acabamento premium.",
+    "material": "Espelho de 4mm",
+    "dimensoes": "1200x2400",
+    "peso": "30 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 5,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/icons/github.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/canvas.jpg",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/proton.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/zoho.webp",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      }
+    ]
   }
 ]

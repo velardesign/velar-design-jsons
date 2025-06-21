@@ -1,0 +1,154 @@
+[
+  {
+    "id": "bitwarden",
+    "name": "Bitwarden",
+    "description": "Gerenciador de senhas corporativos.",
+    "url": "https://bitwarden.com/",
+    "image": "/icons/bitwarden.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "zoho",
+    "name": "Zoho Mail",
+    "description": "Plataforma profissional de e-mail empresarial com domínio personalizado e painel de administração completo.",
+    "url": "https://mailadmin.zoho.com/cpanel",
+    "image": "/icons/zoho.webp",
+    "status": "funcionando"
+  },
+  {
+    "id": "proton",
+    "name": "Proton Mail",
+    "description": "Plataforma de e-mail para uso de cadastros.",
+    "url": "https://account.proton.me/pt-br/mail",
+    "image": "/icons/proton.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "nuvemshop",
+    "name": "Nuvemshop",
+    "description": "Plataforma de e-commerce usada para gerenciar a loja virtual, produtos, pedidos e clientes.",
+    "url": "https://www.nuvemshop.com.br/admin",
+    "image": "/icons/nuvemshop.jpg",
+    "status": "instável"
+  },
+  {
+    "id": "mailerlite",
+    "name": "MailerLite",
+    "description": "Ferramenta de automação e campanhas de e-mail marketing para comunicação com clientes.",
+    "url": "https://dashboard.mailerlite.com",
+    "image": "/icons/mailerlite.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "description": "Plataforma de hospedagem moderna e contínua para sites e aplicações frontend com deploy automático.",
+    "url": "https://vercel.com",
+    "image": "/icons/vercel.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "github",
+    "name": "Github",
+    "description": "Repositório de código-fonte para colaboração, versionamento e gerenciamento de projetos da empresa.",
+    "url": "https://github.com/velardesign",
+    "image": "/icons/github.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "semrush",
+    "name": "SemRush",
+    "description": "Ferramenta completa de SEO e marketing digital para análise de performance e posicionamento orgânico.",
+    "url": "https://pt.semrush.com/projects/",
+    "image": "/icons/semrush.jpg",
+    "status": "funcionando"
+  },
+  {
+    "id": "googlesearch",
+    "name": "Google Search",
+    "description": "Console de busca do Google para monitorar desempenho, rastreamento e indexação do site da empresa.",
+    "url": "https://search.google.com/",
+    "image": "/icons/googlesearch.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "googlenegocio",
+    "name": "Google Negócio",
+    "description": "Ferramenta de presença digital no Google Maps e Google Search com avaliações e informações da empresa.",
+    "url": "https://www.google.com/intl/pt-br_br/business/",
+    "image": "/icons/googlenegocio.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "googleanalytic",
+    "name": "Google Analytic",
+    "description": "Ferramenta de análise de dados comportamentais dos usuários em ambientes digitais da empresa.",
+    "url": "https://analytics.google.com",
+    "image": "/icons/googleanalytics.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "registrobr",
+    "name": "Registro.br",
+    "description": "Plataforma oficial de registro e administração de domínios .br com gerenciamento DNS.",
+    "url": "https://registro.br/",
+    "image": "/icons/registrobr.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "description": "Plataforma de design gráfico para criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros. ",
+    "url": "https://www.canva.com/",
+    "image": "/icons/canvas.jpg",
+    "status": "funcionando"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "description": "Rede social visual utilizada para publicar conteúdos, Reels e promover a marca da empresa.",
+    "url": "https://www.instagram.com/_velardesign/",
+    "image": "/icons/instagram.jpg",
+    "status": "funcionando"
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "description": "Página oficial no Facebook usada para divulgar novidades, campanhas e interagir com o público.",
+    "url": "https://www.facebook.com/velardesign.oficial",
+    "image": "/icons/facebook.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "description": "Galeria de inspirações visuais com imagens e painéis de decoração usando os espelhos da marca.",
+    "url": "https://br.pinterest.com/velardesign",
+    "image": "/icons/pinterest.png",
+    "status": "funcionando"
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "description": "Perfil oficial com vídeos curtos e criativos mostrando os produtos e bastidores da Velar Design.",
+    "url": "https://www.tiktok.com/@_velardesign",
+    "image": "/icons/tiktok.webp",
+    "status": "funcionando"
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "description": "Agregador social de notícias ou um social bookmarks",
+    "url": "https://www.reddit.com/r/VelarDesign/",
+    "image": "/icons/reddit.webp",
+    "status": "funcionando"
+  },
+  {
+    "id": "youtube",
+    "name": "Youtube",
+    "description": "Canal oficial com vídeos institucionais, tutoriais e apresentação dos espelhos modulares.",
+    "url": "https://www.youtube.com/@velardesign",
+    "image": "/icons/youtube.png",
+    "status": "funcionando"
+  }
+]
