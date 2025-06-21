@@ -138,5 +138,110 @@
         "descricao": "Ótima qualidade de design inovador"
       }
     ]
+  },
+  {
+    "id": 4,
+    "nome": "Espelho Halo",
+    "slug": "halo",
+    "imagem": "/products/halo.webp",
+    "descricao": "Espelho com design geométrico e acabamento premium.",
+    "material": "Espelho de 4mm",
+    "dimensoes": "1200x2400",
+    "peso": "30 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 5,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/icons/github.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/canvas.jpg",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/proton.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/zoho.webp",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Espelho Halo",
+    "slug": "halo",
+    "imagem": "/products/halo.webp",
+    "descricao": "Espelho com design geométrico e acabamento premium.",
+    "material": "Espelho de 4mm",
+    "dimensoes": "1200x2400",
+    "peso": "30 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 5,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/icons/github.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/canvas.jpg",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/proton.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/zoho.webp",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Espelho Halo",
+    "slug": "halo",
+    "imagem": "/products/halo.webp",
+    "descricao": "Espelho com design geométrico e acabamento premium.",
+    "material": "Espelho de 4mm",
+    "dimensoes": "1200x2400",
+    "peso": "30 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 5,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/icons/github.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/canvas.jpg",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/proton.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      },
+      {
+        "url": "/icons/zoho.webp",
+        "alt": "imagem de espelhos onix",
+        "descricao": "Ótima qualidade de design inovador"
+      }
+    ]
   }
 ]
