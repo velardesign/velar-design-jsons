@@ -15,17 +15,17 @@
       {
         "url": "/banco/detalhes/bisote.png",
         "alt": "imagem de espelhos onix",
-        "descricao": "O acabamento bisotê é um chanfro delicado nas bordas do espelho, criando um ângulo elegante que reflete a luz com sofisticação."
+        "descricao": "<p>O acabamento bisotê é um chanfro delicado nas bordas do espelho, criando um ângulo elegante que reflete a luz com sofisticação.</p>"
       },
       {
         "url": "/banco/detalhes/cores-espelhos-velar.png",
         "alt": "Cores disponíveis para espelhos",
-        "descricao": "O Bronze aquece com sofisticação, o Prata amplia com leveza e o Fumê adiciona profundidade e elegância. Essa são as cores disponíveis."
+        "descricao": "<p>O Bronze aquece com sofisticação, o Prata amplia com leveza e o Fumê adiciona profundidade e elegância. Essa são as cores disponíveis.</p>"
       },
       {
-        "url": "/icons/proton.png",
-        "alt": "imagem de espelhos onix",
-        "descricao": "Ótima qualidade de design inovador"
+        "url": "/banco/detalhes/camadas-espelhos.png",
+        "alt": "imagem de camadas de pinturas de espelhos",
+        "descricao": "<p> O <strong>Espelho Velar Design</strong> é desenvolvido com tecnologia de ponta e atenção minuciosa aos detalhes. Cada peça passa por um processo de fabricação cuidadosamente controlado que garante qualidade, elegância e durabilidade.</p>"
       },
       {
         "url": "/icons/zoho.webp",
