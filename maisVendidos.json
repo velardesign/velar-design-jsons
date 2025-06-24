@@ -3,14 +3,21 @@
     "id": 1,
     "name": "Espelho Modular Orion",
     "image": "/products/orion.webp",
-    "price": 249.9,
+    "price": 399.9,
     "link": "https://velardesign.lojavirtual.com.br/orion"
   },
   {
     "id": 2,
-    "name": "Espelho Prisma Aço",
+    "name": "Espelho Modular Halo",
     "image": "/products/halo.webp",
-    "price": 289.9,
+    "price": 766.9,
+    "link": "https://velardesign.lojavirtual.com.br/prisma"
+  },
+  {
+    "id": 2,
+    "name": "Espelho Modular Tríade",
+    "image": "/products/triade.webp",
+    "price": 599.9,
     "link": "https://velardesign.lojavirtual.com.br/prisma"
   }
 ]
