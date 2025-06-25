@@ -3,36 +3,72 @@
     "name": "Espelho Modular Minimalista Halo",
     "image": "/banco/espelhos/halo.webp",
     "description": "Espelho decorativo com design modular para ambientes modernos.",
-    "url": "https://velardesign.com.br/banco/espelhos/halo.webp"
+    "url": "https://velardesign.com.br/banco/espelhos/halo.webp",
+    "features": [
+      "Design modular e versátil para múltiplas configurações",
+      "Estilo minimalista contemporâneo",
+      "Ideal para salas, quartos e halls de entrada",
+      "Amplia visualmente o ambiente"
+    ]
   },
   {
     "name": "Espelho Orgânico ",
     "image": "/banco/espelhos/gaia.png",
     "description": "Espelho com formato orgânico inspirado na natureza.",
-    "url": "https://velardesign.com.br/banco/espelhos/gaia.png"
+    "url": "https://velardesign.com.br/banco/espelhos/gaia.png",
+    "features": [
+      "Formato orgânico inspirado na natureza",
+      "Design biofílico e contemporâneo",
+      "Formas suaves e fluidas",
+      "Ideal para ambientes zen e relaxantes"
+    ]
   },
   {
     "name": "Espelho Petalo",
     "image": "/banco/espelhos/petalo.png",
     "description": "Conjunto de 4 espelhos orgânicos formando uma lindo desenho.",
-    "url": "https://velardesign.com.br/banco/espelhos/petalo.png"
+    "url": "https://velardesign.com.br/banco/espelhos/petalo.png",
+    "features": [
+      "Conjunto de 4 peças complementares",
+      "Composição escultural única",
+      "Design inspirado em pétalas",
+      "Cria ponto focal decorativo impactante"
+    ]
   },
   {
     "name": "Espelho Retrô Tríade",
     "image": "/banco/espelhos/triade.png",
     "description": "Espelho multicores com personalidade e estilo retrô.",
-    "url": "https://velardesign.com.br/banco/espelhos/triade.png"
+    "url": "https://velardesign.com.br/banco/espelhos/triade.png",
+    "features": [
+      "Estilo retrô e vintage autêntico",
+      "Cores vibrantes e marcantes",
+      "Design geométrico dos anos 70",
+      "Ideal para decoração eclética e colorida"
+    ]
   },
   {
     "name": "Espelho Escultural Abstrato Aether",
     "image": "/banco/espelhos/aether.webp",
     "description": "Peça decorativa que une espelho e arte em formas abstratas.",
-    "url": "https://velardesign.com.br/banco/espelhos/aether.webp"
+    "url": "https://velardesign.com.br/banco/espelhos/aether.webp",
+    "features": [
+      "Design escultural e artístico",
+      "Formas abstratas contemporâneas",
+      "Funciona como arte decorativa",
+      "Peça única e sofisticada"
+    ]
   },
   {
     "name": "Espelho Portal Orion",
     "image": "/banco/espelhos/orion.webp",
     "description": "Peça decorativa que une espelhos da cor bronze e prata formando um lindo portal.",
-    "url": "https://velardesign.com.br/banco/espelhos/orion.webp"
+    "url": "https://velardesign.com.br/banco/espelhos/orion.webp",
+    "features": [
+      "Combinação bronze e prata elegante",
+      "Design circular tipo portal",
+      "Acabamento sofisticado e luxuoso",
+      "Cria moldura decorativa única"
+    ]
   }
 ]
