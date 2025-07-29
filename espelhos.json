@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "nome": "Espelho Orion",
+    "slug": "orion",
+    "imagem": "/products/orion.webp",
+    "descricao": "<p>O <strong>Espelho Orion</strong> é um conjunto elegante composto por 8 espelhos na cor <strong>bronze</strong> e 1 espelho central na cor <strong>prata</strong>, formando a ilusão de um <strong>portal</strong>. Ideal para <strong>penteadeiras</strong>, <strong>lavabos</strong>, <strong>salas de jantar</strong> e <strong>ambientes sofisticados</strong>. Produzido pela <strong>Velar Design</strong> com qualidade e estilo em <strong>espelhos decorativos modulares</strong>.</p>",
+    "material": "Espelho Cristal de 4mm",
+    "dimensoes": "Altura: 100cm x Largura: 80cm",
+    "peso": "8 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 9,
+    "url": "https://velardesign.lojavirtualnuvem.com.br/produtos/espelho-orion-design-modular-com-elegancia/",
+    "imagens": [
+      {
+        "url": "/banco/detalhes/bisote.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "<p>O acabamento bisotê é um chanfro delicado nas bordas do espelho, criando um ângulo elegante que reflete a luz com sofisticação.</p>"
+      },
+      {
+        "url": "/banco/detalhes/cores-espelhos-velar.png",
+        "alt": "Cores disponíveis para espelhos",
+        "descricao": "<p>O Bronze aquece com sofisticação, o Prata amplia com leveza e o Fumê adiciona profundidade e elegância. Essa são as cores disponíveis.</p>"
+      },
+      {
+        "url": "/banco/detalhes/camadas-espelhos.png",
+        "alt": "imagem de camadas de pinturas de espelhos",
+        "descricao": "<p> O <strong>Espelho Velar Design</strong> é desenvolvido com tecnologia de ponta e atenção minuciosa aos detalhes. Cada peça passa por um processo de fabricação cuidadosamente controlado que garante qualidade, elegância e durabilidade.</p>"
+      },
+      {
+        "url": "/banco/detalhes/familia-reflexo-espelhos.png",
+        "alt": "familia se olhando no espelho velar design",
+        "descricao": "<p><strong>Espelhos cristal</strong> se destacam por oferecer um <strong>reflexo excepcionalmente nítido e fiel</strong>. Graças à sua composição com <strong>vidro de alta pureza</strong>, garantem <strong>clareza de imagem</strong> e <strong>brilho uniforme</strong>, valorizando qualquer ambiente com <strong>elegância</strong> e <strong>precisão visual</strong>.</p>"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Espelho Lumen",
+    "slug": "lumen",
+    "imagem": "/products/lumen.webp",
+    "descricao": "<p><strong>Espelho Lumen</strong> com design geométrico e acabamento premium, composto por sete peças que formam uma composição única e sofisticada. Ideal para <strong>hall de entrada</strong>, <strong>salas</strong> e <strong>escritórios</strong>, ele transforma qualquer ambiente com elegância e modernidade.</p>",
+    "material": "Espelho de 4mm",
+    "dimensoes": "Altura: 100cm x Largura: 160cm",
+    "peso": "16 kilos",
+    "preco": 649.9,
+    "quantidadeEmbalagem": 7,
+    "url": "https://velardesign.lojavirtualnuvem.com.br/produtos/espelho-lumen-clareza-e-sofisticacao-para-espacos-de-convivio/",
+    "imagens": [
+      {
+        "url": "/banco/detalhes/bisote.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "<p>O acabamento bisotê é um chanfro delicado nas bordas do espelho, criando um ângulo elegante que reflete a luz com sofisticação.</p>"
+      },
+      {
+        "url": "/banco/detalhes/cores-espelhos-velar.png",
+        "alt": "Cores disponíveis para espelhos",
+        "descricao": "<p>O Bronze aquece com sofisticação, o Prata amplia com leveza e o Fumê adiciona profundidade e elegância. Essa são as cores disponíveis.</p>"
+      },
+      {
+        "url": "/banco/detalhes/camadas-espelhos.png",
+        "alt": "imagem de camadas de pinturas de espelhos",
+        "descricao": "<p> O <strong>Espelho Velar Design</strong> é desenvolvido com tecnologia de ponta e atenção minuciosa aos detalhes. Cada peça passa por um processo de fabricação cuidadosamente controlado que garante qualidade, elegância e durabilidade.</p>"
+      },
+      {
+        "url": "/banco/detalhes/familia-reflexo-espelhos.png",
+        "alt": "familia se olhando no espelho velar design",
+        "descricao": "<p><strong>Espelhos cristal</strong> se destacam por oferecer um <strong>reflexo excepcionalmente nítido e fiel</strong>. Graças à sua composição com <strong>vidro de alta pureza</strong>, garantem <strong>clareza de imagem</strong> e <strong>brilho uniforme</strong>, valorizando qualquer ambiente com <strong>elegância</strong> e <strong>precisão visual</strong>.</p>"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Espelho Aether",
+    "slug": "aether",
+    "imagem": "/products/aether.webp",
+    "descricao": "<p><strong>Espelho Aether</strong> combina <strong>design minimalista</strong> e sofisticação natural. Com formato retangular limpo, ele se destaca entre nichos de madeira maciça e elementos decorativos sutis. Ideal para <strong>lavabos</strong>, <strong>banheiros modernos</strong> ou <strong>espaços de relaxamento</strong>, seu acabamento premium valoriza qualquer ambiente com equilíbrio e harmonia.</p>",
+    "material": "Espelho de 4mm",
+    "dimensoes": "Altura: 100cm x Largura: 80cm",
+    "peso": "8 kilos",
+    "preco": 399.9,
+    "quantidadeEmbalagem": 7,
+    "url": "#",
+    "imagens": [
+      {
+        "url": "/banco/detalhes/bisote.png",
+        "alt": "imagem de espelhos onix",
+        "descricao": "<p>O acabamento bisotê é um chanfro delicado nas bordas do espelho, criando um ângulo elegante que reflete a luz com sofisticação.</p>"
+      },
+      {
+        "url": "/banco/detalhes/cores-espelhos-velar.png",
+        "alt": "Cores disponíveis para espelhos",
+        "descricao": "<p>O Bronze aquece com sofisticação, o Prata amplia com leveza e o Fumê adiciona profundidade e elegância. Essa são as cores disponíveis.</p>"
+      },
+      {
+        "url": "/banco/detalhes/camadas-espelhos.png",
+        "alt": "imagem de camadas de pinturas de espelhos",
+        "descricao": "<p> O <strong>Espelho Velar Design</strong> é desenvolvido com tecnologia de ponta e atenção minuciosa aos detalhes. Cada peça passa por um processo de fabricação cuidadosamente controlado que garante qualidade, elegância e durabilidade.</p>"
+      },
+      {
+        "url": "/banco/detalhes/familia-reflexo-espelhos.png",
+        "alt": "familia se olhando no espelho velar design",
+        "descricao": "<p><strong>Espelhos cristal</strong> se destacam por oferecer um <strong>reflexo excepcionalmente nítido e fiel</strong>. Graças à sua composição com <strong>vidro de alta pureza</strong>, garantem <strong>clareza de imagem</strong> e <strong>brilho uniforme</strong>, valorizando qualquer ambiente com <strong>elegância</strong> e <strong>precisão visual</strong>.</p>"
+      }
+    ]
+  }
+]
